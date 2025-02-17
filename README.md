@@ -1,4 +1,4 @@
-# **Linear Algebra**
+# **Linear Algebra for Machine Learning and Data Science**
 
 Welcome to the **Linear Algebra** repository! This collection of Jupyter Notebooks is designed to provide a comprehensive understanding of various linear algebra concepts and techniques, all implemented in Python. Whether you're a beginner or looking to deepen your knowledge, this repository serves as a hands-on guide.
 
